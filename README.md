@@ -60,12 +60,3 @@ O plano completo (todas as semanas, com sessões dia-a-dia) é salvo em
   (regra clássica de prevenção de lesão). Se seu volume atual está muito
   abaixo do ideal pra distância/prazo escolhidos, ele avisa em vez de forçar
   um salto perigoso.
-
-## Próximas etapas
-
-1. ~~Criar features de carga e performance.~~ ✅
-2. ~~Criar um modelo inicial de previsão de performance.~~ ✅
-3. ~~Criar gerador de plano de treinamento.~~ ✅
-4. Ajustar sessões de treino (tempo/intervalado) por dia da semana preferido do atleta.
-5. Criar dashboard em Streamlit.
-6. Integrar a API do Strava para atualização automática.
